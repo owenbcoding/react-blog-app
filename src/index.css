@@ -6,6 +6,19 @@
   font-family: "Quicksand";
   color: #333;
 }
+
+body { 
+  background: #1e1f26;
+}
+
+p {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
 .navbar {
   padding: 20px;
   display: flex;
@@ -24,6 +37,7 @@
   margin-left: 16px;
   text-decoration: none;
   padding: 6px;
+  color: white;
 }
 .navbar a:hover {
   color: #f1356d;
@@ -41,7 +55,7 @@
   border-bottom: 1px solid #fafafa;
 }
 .blog-preview:hover {
-  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+  box-shadow: 14px 13px 15px rgba(255, 254, 254, 0.973);
 }
 .blog-preview h2 {
   font-size: 20px;
